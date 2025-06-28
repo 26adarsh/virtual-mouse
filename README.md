@@ -67,4 +67,5 @@ Controlling Mouse
 ![Screenshot 2025-06-28 230055](https://github.com/user-attachments/assets/1db84d51-93f8-4856-b85f-1b17e030eaad)
 
 Selecting by clicking
+
 ![Screenshot 2025-06-28 230143](https://github.com/user-attachments/assets/77a0a43c-52f9-4f26-af63-45955193e410)
