@@ -2,17 +2,22 @@
 # Virtual Mouse
 
 🖱️ Virtual AI Mouse with Voice & Gesture Control
+
 Control your computer like Tony Stark — no physical mouse required.
 🚀 What It Does
 - 👋 Hand Gesture Recognition: Move the cursor, click, and drag using just your fingers
 - 🎙️ Voice Commands: Perform actions like "open browser" or "scroll down" using speech
 - 🧠 AI-Powered Tracking: Uses computer vision and deep learning for real-time hand and voice input
 - 🖥️ Touchless Interaction: Designed for accessibility, hygiene, and futuristic user experience
+
+  
 🛠️ Built With
 - Python & OpenCV for computer vision
 - MediaPipe for hand landmark detection
 - Vosk for offline voice recognition
 - PyAutoGUI for simulating mouse and keyboard actions
+
+  
 🌟 Highlights
 - No external hardware required — just a webcam and mic
 - Works offline (no internet needed for voice control)
@@ -57,3 +62,9 @@ Start the server
 python AiVirtualMouseProject.py
 ```
 
+Controlling Mouse
+
+![Screenshot 2025-06-28 230055](https://github.com/user-attachments/assets/1db84d51-93f8-4856-b85f-1b17e030eaad)
+
+Selecting by clicking
+![Screenshot 2025-06-28 230143](https://github.com/user-attachments/assets/77a0a43c-52f9-4f26-af63-45955193e410)
